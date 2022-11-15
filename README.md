@@ -42,7 +42,7 @@
   <a href="https://insomnia.rest/run/?label=NlwCopa%20-%20VilmarBatistaf&uri=https%3A%2F%2Fgithub.com%2Fvilmarsitiodigital%2Fnlwcopa-api%2Fblob%2Fmain%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
-## 💇🏻‍♂️ About the project
+## ⚽ About the project
 
 This API provides everything needed to organize pools among your friends.
 
